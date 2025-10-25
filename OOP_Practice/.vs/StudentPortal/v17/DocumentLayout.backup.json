@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PersonalPC\\source\\repos\\StudentPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AED0940F-F827-463F-89D9-F6D967CB17B3}|StudentPortal\\StudentPortal.vcxproj|C:\\Users\\PersonalPC\\source\\repos\\StudentPortal\\StudentPortal\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AED0940F-F827-463F-89D9-F6D967CB17B3}|StudentPortal\\StudentPortal.vcxproj|solutionrelative:StudentPortal\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED0940F-F827-463F-89D9-F6D967CB17B3}|StudentPortal\\StudentPortal.vcxproj|C:\\Users\\PersonalPC\\source\\repos\\StudentPortal\\StudentPortal\\rect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AED0940F-F827-463F-89D9-F6D967CB17B3}|StudentPortal\\StudentPortal.vcxproj|solutionrelative:StudentPortal\\rect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED0940F-F827-463F-89D9-F6D967CB17B3}|StudentPortal\\StudentPortal.vcxproj|C:\\Users\\PersonalPC\\source\\repos\\StudentPortal\\StudentPortal\\rect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AED0940F-F827-463F-89D9-F6D967CB17B3}|StudentPortal\\StudentPortal.vcxproj|solutionrelative:StudentPortal\\rect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED0940F-F827-463F-89D9-F6D967CB17B3}|StudentPortal\\StudentPortal.vcxproj|C:\\Users\\PersonalPC\\source\\repos\\StudentPortal\\StudentPortal\\database.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AED0940F-F827-463F-89D9-F6D967CB17B3}|StudentPortal\\StudentPortal.vcxproj|solutionrelative:StudentPortal\\database.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rect.cpp",
+              "DocumentMoniker": "C:\\Users\\PersonalPC\\source\\repos\\StudentPortal\\StudentPortal\\rect.cpp",
+              "RelativeDocumentMoniker": "StudentPortal\\rect.cpp",
+              "ToolTip": "C:\\Users\\PersonalPC\\source\\repos\\StudentPortal\\StudentPortal\\rect.cpp",
+              "RelativeToolTip": "StudentPortal\\rect.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-25T02:28:21.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rect.h",
+              "DocumentMoniker": "C:\\Users\\PersonalPC\\source\\repos\\StudentPortal\\StudentPortal\\rect.h",
+              "RelativeDocumentMoniker": "StudentPortal\\rect.h",
+              "ToolTip": "C:\\Users\\PersonalPC\\source\\repos\\StudentPortal\\StudentPortal\\rect.h",
+              "RelativeToolTip": "StudentPortal\\rect.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-25T02:28:08.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "database.txt",
+              "DocumentMoniker": "C:\\Users\\PersonalPC\\source\\repos\\StudentPortal\\StudentPortal\\database.txt",
+              "RelativeDocumentMoniker": "StudentPortal\\database.txt",
+              "ToolTip": "C:\\Users\\PersonalPC\\source\\repos\\StudentPortal\\StudentPortal\\database.txt",
+              "RelativeToolTip": "StudentPortal\\database.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-25T01:17:34.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\PersonalPC\\source\\repos\\StudentPortal\\StudentPortal\\main.cpp",
+              "RelativeDocumentMoniker": "StudentPortal\\main.cpp",
+              "ToolTip": "C:\\Users\\PersonalPC\\source\\repos\\StudentPortal\\StudentPortal\\main.cpp",
+              "RelativeToolTip": "StudentPortal\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-25T01:03:13.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
